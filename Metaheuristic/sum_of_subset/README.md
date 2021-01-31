@@ -1,4 +1,4 @@
-#Metaheuristic
+# Metaheuristic
     Sum of Subset Problem
 
 * To run program you have to install:
@@ -15,7 +15,7 @@
 How to run algorithm:
 <br />
 Firstly, you can create new set of data by parameter -s or --size
-* #####Example
+##### Example
 ```
 python subset_sum.py -s {input size you wish} > {Path 
 were you want to hold set of numbers}/{Name of file}
